@@ -1,4 +1,4 @@
-# CS-499 Breakdown
+# CS-499 Repository Breakdown
 This Repository houses the following items:
 - The Original Artifacts of pet.java and banking.cpp
 - A compressed version of my Code Review describing pet.java and banking.cpp
