@@ -1,8 +1,8 @@
 # Table of Contents
 1. Repository Breakdown
-  - This shows what files are included
+    - This shows what files are included
 2. Professional Self-Assessment
-  - A holistic introduction of myself and my skills presented in this portfolio
+    - A holistic introduction of myself and my skills presented in this portfolio
 3. Software Design and Engineering Enhancement
 4. Algorithms and Data Structure Enhancement
 5. Databases Enhancement
