@@ -30,7 +30,7 @@ As a whole, these enhancements showcase my abilities in keeping a secure mindset
 # Software Design and Engineering Enhancement
 For this enhancement, I chose the artifact pet.java, a project that originated from a previous course, IT 145. It is a simple java file which includes a constructor, setter and getter methods. There is not an explicit goal with this artifact, however I created my enhancement with the goal of creating a working check-in application. I used Android Studio to create a user-friendly application which would gather the pet's information. For this first artifact, I focused on creating the home page and the respective UI elements to gather the pet's information from the user. This enhancement is further developed within the Databases Enhancement below. 
 
-## List of Enhancements Performed
+### List of Enhancements Performed
 1. Changed the IDE over to Android Studio in order to change this .java file into a working Android Applicaiton
 2. Created an appealing background displaying the application's title and a short description
 3. Used a cardview to house text and a button which takes the user to the request form which includes spaces for the user to input the pet's name, species, how many days the pet is staying, and if they want their dog groomed.
@@ -42,7 +42,7 @@ For this enhancement, I chose the artifact pet.java, a project that originated f
 # Algorithms and Data Structure Enhancement
 For this enhancement, I chose the artifact banking.cpp, a project that originated from a previous course, CS340. This is a simple banking software which first prompts the user for their username/password and then takes them over to a main menu which they can then work through. The original project included finding the vulnerabilities within this file, and then fixing each one. I originally implemented verification for the user's choice and added a username verification. For this enhancement, I focused on creating hashing algorithms which would further encrypt the username and password and thus verify each through this encryption. 
 
-## List of Enhancements Performed
+### List of Enhancements Performed
 1. Changed the language over to Java to showcase my skills with Java Hashing Algorithms
 2. Added another file which would house the new client structure
 3. Created an ArrayList structure using the new file 
@@ -56,7 +56,7 @@ For this enhancement, I chose the artifact banking.cpp, a project that originate
 # Databases Enhancement
 For this enhancement, I continued to work on the enhancement I used for the Software Design and Engineering enhancement. For this, I added a database behind the pet's information request page using SQLite. I then added login and sign-up screens which also hold a user's database behind them (also using SQLite). For this enhancement, I solely focused on the database design and developing my skills using SQL within a Java encironment. 
 
-## List of Enhancements Performed
+### List of Enhancements Performed
 1. Added Login and Signup screens
 2. Added a Database behind the Check-in Request screen which houses pet information
   - This database is fully implemented to be able to be read from, verifed against, updated, and deleted from.
